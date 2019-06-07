@@ -1,4 +1,4 @@
-#Schema / circuit diagram from the Commodore (Amiga 500) 312503-03 power supply.
+# Schema / circuit diagram from the Commodore (Amiga 500) 312503-03 power supply.
 
 ## Versions
 
